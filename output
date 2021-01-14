@@ -1,0 +1,11 @@
+>> Order: I need a Margherita pizza with chicken chunks and cheese.
+  >>>> Preparing order
+       Pizza description:Margherita(150), cost:150
+
+       *** Adding chicken chunks to Margherita pizza
+       Pizza description:Margherita(150) + Chicken Chunks(70), cost:220
+
+       *** Adding cheese also to Margherita pizza
+       Pizza description:Margherita(150) + Chicken Chunks(70) + Cheese(30), cost:250
+
+       >>>> Pizza is ready !!
